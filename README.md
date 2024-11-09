@@ -1,4 +1,4 @@
-# YuMo's Blog 一滴墨水
+# MindJourney 行思录
 
 ```
 # h1 Heading 8-)
